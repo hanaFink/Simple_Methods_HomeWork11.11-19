@@ -1,0 +1,7 @@
+C:\Users\kemro\source\repos\Home_work_lesson8_11.11.19\Home_work_lesson8_11.11.19\bin\Debug\Home_work_lesson8_11.11.19.exe.config
+C:\Users\kemro\source\repos\Home_work_lesson8_11.11.19\Home_work_lesson8_11.11.19\bin\Debug\Home_work_lesson8_11.11.19.exe
+C:\Users\kemro\source\repos\Home_work_lesson8_11.11.19\Home_work_lesson8_11.11.19\bin\Debug\Home_work_lesson8_11.11.19.pdb
+C:\Users\kemro\source\repos\Home_work_lesson8_11.11.19\Home_work_lesson8_11.11.19\obj\Debug\Home_work_lesson8_11.11.19.csprojAssemblyReference.cache
+C:\Users\kemro\source\repos\Home_work_lesson8_11.11.19\Home_work_lesson8_11.11.19\obj\Debug\Home_work_lesson8_11.11.19.csproj.CoreCompileInputs.cache
+C:\Users\kemro\source\repos\Home_work_lesson8_11.11.19\Home_work_lesson8_11.11.19\obj\Debug\Home_work_lesson8_11.11.19.exe
+C:\Users\kemro\source\repos\Home_work_lesson8_11.11.19\Home_work_lesson8_11.11.19\obj\Debug\Home_work_lesson8_11.11.19.pdb
